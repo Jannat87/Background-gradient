@@ -1,0 +1,79 @@
+.mainpage {
+	background: linear-gradient(to bottom left, #575757 38%, #080808 20%);
+	min-height:133vh;
+	width: 100%;
+	padding-right: 15px;
+  	padding-left: 15px;
+  	margin-right: auto;
+ 	margin-left: auto;
+   	border-radius:40px 40px 40px 40px;
+   	border:2px solid #A8A8AA;
+}
+
+.container {
+	min-height:100vh;
+}
+
+.image img{
+	height: 35vh;
+	text-align: center;
+	width: 100%;
+	margin-top: 80px;
+}
+
+
+.navbar {
+	background: #170831;
+	height: 45px;
+	width: 97.4%;
+	margin-left: 17px;
+}
+
+
+.collapse {
+	height: 40px;
+	width: 100%;
+	float: left;
+	margin-top: -51px;
+}
+
+.buttan {
+	background: #25041D;
+	height: 100px;
+	width: 78%;
+	padding-top: 20px;
+	margin-top: 215x;
+	border-radius:20px 20px 20px 20px;
+}
+
+.buttan p{
+	background: #D2092B;
+	color: #3D011F;
+	font-size: 1.5em;
+	text-align: center;
+	border-radius:5px 5px 5px 5px;
+}
+.welcome{
+	height:60vh;
+	width: 48.7%;
+	margin-top: -50px;
+	margin-left: 15px;
+	background: linear-gradient(to bottom, #000000 35%, #16072e 85%);
+}
+
+.degree {
+	height:60vh;
+	width: 48.7%;
+	margin-top: -50px;
+	background: linear-gradient(to bottom, #000000 35%, #16072e 85%);
+}
+
+
+.link{
+	width:36vh;
+	color:red;
+}
+
+.star {
+	background: #FFF68F;
+}
